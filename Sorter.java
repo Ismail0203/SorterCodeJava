@@ -50,6 +50,8 @@ public class Sorter{
     }
  
     // Driver method
-    
+    void sort(int[] a) {
+        insertionSort(a);
+    }
  
 }
